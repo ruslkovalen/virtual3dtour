@@ -1,0 +1,26 @@
+getPointsPerPanoramandDialog('pano30',5)
+
+	<script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js">
+
+		function getPointsPerPanoram(panoramId,points){
+    $.get( "http://localhost:3000/UpdateBusinessValue?panoramId="+panoramId+"&points="+points+"")
+    .done(function( data ) {
+      alert( "Data Loaded: " + data );
+    });
+}
+
+function getAdditionalPontsCathedral(panoramId,points){
+
+    $.get( "http://localhost:3000/getAdditionalPontsCathedral?panoramId="+panoramId+"&points="+points+"")
+    .done(function( data ) {
+      alert( "Data Loaded: " + data );
+    });
+
+}
+function getPointsPerPanoramandDialog(panoramId,points){
+
+	$('#krpanoSWFObject').html("<p>Hello</p>");
+    
+}
+		
+		</script>

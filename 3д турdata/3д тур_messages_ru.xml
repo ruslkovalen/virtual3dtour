@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="ru_pano61_title"><![CDATA[вхід]]></data>
+  <data name="ru_spotpolygon136_tooltip"><![CDATA[вхід]]></data>
+  <data name="ru_spotpolygon136javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoramandDialog('pano30',5)]]></data>
+  <data name="ru_spotpolygon136websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[./3д турdata/extras/form.html]]></data>
+  <data name="ru_spotpolygon136websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+
+  <data name="ru_panogroup72_title"><![CDATA[1 поверх]]></data>
+
+  <data name="ru_pano31_title"><![CDATA[Наші кафедри]]></data>
+  <data name="ru_spotpolygon301_tooltip"><![CDATA[вхід]]></data>
+  <data name="ru_spotpolygon301javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint302_tooltip"><![CDATA[Лестница]]></data>
+  <data name="ru_spotpoint302javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanorama('pano35',4)]]></data>
+  <data name="ru_spotpoint302javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint305javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanorama('pano33',5)]]></data>
+  <data name="ru_pano33_title"><![CDATA[Стенд]]></data>
+  <data name="ru_spotpoint309javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanorama('pano35',4)]]></data>
+  <data name="ru_spotpoint309javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint446javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_pano30_title"><![CDATA[фоє]]></data>
+  <data name="ru_spotpolygon137_tooltip"><![CDATA[вихід]]></data>
+  <data name="ru_spotpolygon137javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint293_tooltip"><![CDATA[Наші Кафедри]]></data>
+  <data name="ru_spotpoint293javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano31',5)]]></data>
+  <data name="ru_pano35_title"><![CDATA[лестница]]></data>
+  <data name="ru_spotpoint447_tooltip"><![CDATA[фоє]]></data>
+  <data name="ru_spotpoint447javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint447javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint718_tooltip"><![CDATA[2 поверх]]></data>
+  <data name="ru_spotpoint718javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano37',5)]]></data>
+  <data name="ru_spotpoint718javascriptcalljsfunctioncall"><![CDATA[]]></data>
+
+  <data name="ru_panogroup78_title"><![CDATA[2 поверх]]></data>
+
+  <data name="ru_pano37_title"><![CDATA[другий поверх]]></data>
+  <data name="ru_spotpoint717_tooltip"><![CDATA[лестница]]></data>
+  <data name="ru_spotpoint717javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint717javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpolygon988_tooltip"><![CDATA[Лабораторія Епам]]></data>
+  <data name="ru_spotpolygon988javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano23',5)]]></data>
+  <data name="ru_spotpoint1103javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano38',5)]]></data>
+  <data name="ru_spotpoint1685_tooltip"><![CDATA[3 поверх]]></data>
+  <data name="ru_spotpoint1685javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano43',5)]]></data>
+  <data name="ru_pano23_title"><![CDATA[Лабораторія Епам]]></data>
+  <data name="ru_spotpolygon989_tooltip"><![CDATA[другий поверх]]></data>
+  <data name="ru_spotpolygon989javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_pano24_title"><![CDATA[202_2]]></data>
+  <data name="ru_spotpoint1394_tooltip"><![CDATA[203_1]]></data>
+  <data name="ru_spotpoint1394javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_pano38_title"><![CDATA[вхід 203]]></data>
+  <data name="ru_spotpoint1247javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano40',5)]]></data>
+  <data name="ru_spotpolygon1248_tooltip"><![CDATA[203 аудиторія]]></data>
+  <data name="ru_spotpolygon1248javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano26',10)]]></data>
+  <data name="ru_spotpoint1695javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_pano26_title"><![CDATA[203_1]]></data>
+  <data name="ru_spotpoint1392_tooltip"><![CDATA[202_2]]></data>
+  <data name="ru_spotpoint1392javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano24',10)]]></data>
+  <data name="ru_spotpolygon1396_tooltip"><![CDATA[вхід 203]]></data>
+  <data name="ru_spotpolygon1396javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_pano40_title"><![CDATA[ICS]]></data>
+  <data name="ru_spotpoint1400javascriptcalljsfunctioncall"><![CDATA[]]></data>
+
+  <data name="ru_panogroup84_title"><![CDATA[3 поверх]]></data>
+
+  <data name="ru_pano43_title"><![CDATA[3 поверх]]></data>
+  <data name="ru_spotpoint1686_tooltip"><![CDATA[2 поверх]]></data>
+  <data name="ru_spotpoint1686javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint1687_tooltip"><![CDATA[коридор до 305]]></data>
+  <data name="ru_spotpoint1687javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano47',5)]]></data>
+  <data name="ru_spotpoint1709javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano48',7)]]></data>
+  <data name="ru_pano28_title"><![CDATA[305 аудиторія]]></data>
+  <data name="ru_spotpoint1690javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano29',5)]]></data>
+  <data name="ru_spotpolygon1696_tooltip"><![CDATA[вхід 305_]]></data>
+  <data name="ru_spotpolygon1696javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_pano29_title"><![CDATA[305_2]]></data>
+  <data name="ru_spotpoint1691_tooltip"><![CDATA[305 аудиторія]]></data>
+  <data name="ru_spotpoint1691javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_pano47_title"><![CDATA[вхід 305_]]></data>
+  <data name="ru_spotpolygon1705_tooltip"><![CDATA[305 аудиторія]]></data>
+  <data name="ru_spotpolygon1705javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano28',5)]]></data>
+  <data name="ru_spotpoint1706javascriptcalljsfunctioncall"><![CDATA[]]></data>
+
+
+  <data name="ru_pano48_title"><![CDATA[лестница 4 єтаж]]></data>
+  <data name="ru_spotpoint1710javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint1711_tooltip"><![CDATA[4 поверх]]></data>
+  <data name="ru_spotpoint1711javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano49',5)]]></data>
+
+  <data name="ru_panogroup90_title"><![CDATA[4 поверх]]></data>
+
+  <data name="ru_pano49_title"><![CDATA[4 поверх]]></data>
+  <data name="ru_spotpoint1704javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano50',10)]]></data>
+  <data name="ru_spotpoint2388javascriptcalljsfunctioncall"><![CDATA[]]></data>
+
+
+  <data name="ru_pano50_title"><![CDATA[Кафедра мережевих та інтернет технологій]]></data>
+  <data name="ru_spotpoint1707_tooltip"><![CDATA[кафедра Технологій управління]]></data>
+  <data name="ru_spotpoint1707javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint1707javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint1712_tooltip"><![CDATA[кафедра технологій управління]]></data>
+  <data name="ru_spotpoint1712javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano52',10)]]></data>
+
+
+  <data name="ru_pano53_title"><![CDATA[КАфедра прикладних та інформаційних систем]]></data>
+  <data name="ru_spotpoint1870_tooltip"><![CDATA[кафедра технологій управління]]></data>
+  <data name="ru_spotpoint1870javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint1939_tooltip"><![CDATA[кафедра інтелектуальних та інформаційних систем]]></data>
+  <data name="ru_spotpoint1939javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano57',10)]]></data>
+
+
+  <data name="ru_pano54_title"><![CDATA[R0010240_20180510182309]]></data>
+
+
+  <data name="ru_pano55_title"><![CDATA[R0010243_20180510182742]]></data>
+
+
+  <data name="ru_pano56_title"><![CDATA[R0010245_20180510182953]]></data>
+
+
+  <data name="ru_pano57_title"><![CDATA[кафедра інтелектуальних та інформаційних систем]]></data>
+  <data name="ru_spotpoint1941_tooltip"><![CDATA[КАфедра прикладних та інформаційних систем]]></data>
+  <data name="ru_spotpoint1941javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint1942_tooltip"><![CDATA[кафедра програмних систем і технологій]]></data>
+  <data name="ru_spotpoint1942javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano59',15)]]></data>
+
+
+  <data name="ru_pano58_title"><![CDATA[R0010247_20180510183249]]></data>
+
+
+  <data name="ru_pano59_title"><![CDATA[кафедра програмних систем і технологій]]></data>
+  <data name="ru_spotpoint1944_tooltip"><![CDATA[кафедра інтелектуальних та інформаційних систем]]></data>
+  <data name="ru_spotpoint1944javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint1945_tooltip"><![CDATA[кібербезпеки та захисту інформації]]></data>
+  <data name="ru_spotpoint1945javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano60',15)]]></data>
+
+
+  <data name="ru_pano52_title"><![CDATA[кафедра технологій управління]]></data>
+  <data name="ru_spotpoint1866javascriptcalljsfunctioncall"><![CDATA[]]></data>
+  <data name="ru_spotpoint1869_tooltip"><![CDATA[Кафедра прикладних інформаційних систем]]></data>
+  <data name="ru_spotpoint1869javascriptcalljsfunctioncall"><![CDATA[getPointsPerPanoram('pano53',10)]]></data>
+
+
+  <data name="ru_pano60_title"><![CDATA[кібербезпеки та захисту інформації]]></data>
+  <data name="ru_spotpoint1946_tooltip"><![CDATA[кафедра програмних систем і технологій]]></data>
+  <data name="ru_spotpoint1946javascriptcalljsfunctioncall"><![CDATA[]]></data>
+
+
+	<data name="ru_spotmap2367_tooltip"><![CDATA[вхід]]></data>
+	<data name="ru_spotmap2368_tooltip"><![CDATA[лестница]]></data>
+	<data name="ru_spotmap2369_tooltip"><![CDATA[другий поверх]]></data>
+	<data name="ru_spotmap2370_tooltip"><![CDATA[вхід 203]]></data>
+	<data name="ru_spotmap2371_tooltip"><![CDATA[ICS]]></data>
+	<data name="ru_spotmap2372_tooltip"><![CDATA[3 поверх]]></data>
+	<data name="ru_spotmap2373_tooltip"><![CDATA[305 аудиторія]]></data>
+	<data name="ru_spotmap2374_tooltip"><![CDATA[305_2]]></data>
+	<data name="ru_spotmap2375_tooltip"><![CDATA[вхід 305_]]></data>
+	<data name="ru_spotmap2376_tooltip"><![CDATA[лестница 4 єтаж]]></data>
+	<data name="ru_spotmap2377_tooltip"><![CDATA[4 поверх]]></data>
+	<data name="ru_spotmap2378_tooltip"><![CDATA[Кафедра мережевих та інтернет технологій]]></data>
+	<data name="ru_spotmap2379_tooltip"><![CDATA[КАфедра прикладних та інформаційних систем]]></data>
+	<data name="ru_spotmap2380_tooltip"><![CDATA[R0010240_20180510182309]]></data>
+	<data name="ru_spotmap2381_tooltip"><![CDATA[R0010243_20180510182742]]></data>
+	<data name="ru_spotmap2382_tooltip"><![CDATA[R0010245_20180510182953]]></data>
+	<data name="ru_spotmap2383_tooltip"><![CDATA[кафедра інтелектуальних та інформаційних систем]]></data>
+	<data name="ru_spotmap2384_tooltip"><![CDATA[R0010247_20180510183249]]></data>
+	<data name="ru_spotmap2385_tooltip"><![CDATA[кафедра програмних систем і технологій]]></data>
+	<data name="ru_spotmap2386_tooltip"><![CDATA[кафедра технологій управління]]></data>
+	<data name="ru_spotmap2387_tooltip"><![CDATA[кібербезпеки та захисту інформації]]></data>
+
+
+	<data name="ru_project_floor_title"><![CDATA[New Project]]></data>
+	<data name="ru_spotmap1679_tooltip"><![CDATA[вхід]]></data>
+	<data name="ru_spotmap1680_tooltip"><![CDATA[вхід]]></data>
+	<data name="ru_spotmap1681_tooltip"><![CDATA[вхід]]></data>
+	<data name="ru_spotmap1682_tooltip"><![CDATA[вхід]]></data>
+	<data name="ru_spotmap1683_tooltip"><![CDATA[ICS]]></data>
+
+	<data name="ru_panogroup72_floor_title"><![CDATA[1 поверх]]></data>
+	<data name="ru_spotmap1516_tooltip"><![CDATA[203_1]]></data>
+	<data name="ru_spotmap1517_tooltip"><![CDATA[другий поверх]]></data>
+	<data name="ru_spotmap1518_tooltip"><![CDATA[лестница]]></data>
+	<data name="ru_spotmap1520_tooltip"><![CDATA[ICS]]></data>
+	<data name="ru_panogroup78_floor_title"><![CDATA[2 поверх]]></data>
+	<data name="ru_spotmap1523_tooltip"><![CDATA[203]]></data>
+	<data name="ru_spotmap1524_tooltip"><![CDATA[другий поверх]]></data>
+	<data name="ru_spotmap1525_tooltip"><![CDATA[Лабораторія Епам]]></data>
+	<data name="ru_spotmap1526_tooltip"><![CDATA[лестница]]></data>
+	<data name="ru_spotmap1527_tooltip"><![CDATA[ICS]]></data>
+
+  <data name="ru_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="ru_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="ru_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="ru_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="ru_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="ru_controlBar_dockedThumbnailsautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="ru_controlBar_dockedThumbnailsautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="ru_controlBar_dockedThumbnailsgyroOnTip"><![CDATA[Enable gyroscope]]></data>
+  <data name="ru_controlBar_dockedThumbnailsgyroOffTip"><![CDATA[Disable gyroscope]]></data>
+  <data name="ru_controlBar_dockedThumbnailsgyroNotTip"><![CDATA[Gyroscope is unavailable]]></data>
+  <data name="ru_controlBar_dockedThumbnailsdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="ru_controlBar_dockedThumbnailshideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="ru_controlBar_dockedThumbnailsdisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="ru_controlBar_dockedThumbnailshideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="ru_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="ru_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="ru_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="ru_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="ru_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="ru_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="ru_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="ru_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="ru_logowebsiteurl"><![CDATA[]]></data>
+  <data name="ru_logotooltipText"><![CDATA[Open website]]></data>
+  <data name="ru_logo1websiteurl"><![CDATA[http://fit.univ.kiev.ua/]]></data>
+  <data name="ru_logo1tooltipText"><![CDATA[Факултет інформаційних технологій]]></data>
+  <data name="ru_callActionsOnUserEventspanoid1220"><![CDATA[]]></data>
+  <data name="ru_analyticsgoogle_tracking_id"><![CDATA[UA-xxxxxx-xx]]></data>
+  <data name="ru_descriptiondisplay_close_text"><![CDATA[]]></data>
+  <data name="ru_buttonForASinglePanotooltip"><![CDATA[]]></data>
+  <data name="ru_buttonForASinglePanopanoid1020"><![CDATA[pano50]]></data>
+  <data name="ru_buttonForASinglePanopanoid1031"><![CDATA[pano53]]></data>
+  <data name="ru_buttonForASinglePanopanoid1042"><![CDATA[pano57]]></data>
+  <data name="ru_buttonForASinglePanopanoid1053"><![CDATA[pano59]]></data>
+  <data name="ru_buttonForASinglePanopanoid1064"><![CDATA[pano60]]></data>
+  <data name="ru_buttonForASinglePanopanoid1075"><![CDATA[pano52]]></data>
+  <data name="ru_buttonForASinglePanoonclick102569javascriptcalljsfunctioncall"><![CDATA[knowMore(%p)]]></data>
+  <data name="ru_websiteViewerclose_text"><![CDATA[Close]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+  <data name="ru_pano31_description"><![CDATA[<font size="1"><span style="color: rgb(85, 85, 85); font-family: Calibri, Arian, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><a href="/"><span id="goog_1978622632"></span>Кафедра Технологій управління<span id="goog_1978622633"></span></a> здійснює підготовку магістрів за спеціальністю 8.18010013&nbsp;</span><strong style="margin: 0px; padding: 0px; border: 0px; font-variant-ligatures: normal; font-stretch: inherit; line-height: inherit; font-family: Calibri, Arian, sans-serif; color: rgb(85, 85, 85); orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">«Управління проектами»</strong><span style="color: rgb(85, 85, 85); font-family: Calibri, Arian, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">, спеціалізація&nbsp;</span><strong style="margin: 0px; padding: 0px; border: 0px; font-variant-ligatures: normal; font-stretch: inherit; line-height: inherit; font-family: Calibri, Arian, sans-serif; color: rgb(85, 85, 85); orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">«Управління ІТ проектами»</strong><span style="color: rgb(85, 85, 85); font-family: Calibri, Arian, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">, кваліфікація керівник проектів та програм. На навчання в магістратурі запрошуються випускники, які мають вищу освіту рівня бакалавра, спеціаліста або магістра.</span></font><div><div style="orphans: 2; widows: 2;"><font color="#555555" face="Calibri, Arian, sans-serif" size="1"><br></font></div><div><div><font size="1"><font face="arial, sans-serif"><a href="http://kiis.knu.ua/en/" target="_blank">Кафедра інтелектуальних та інформаційних систем </a>готує фахівців із галузі знань 12 - Інформаційні технології за спеціальністю 122 - Комп'ютерні науки. Бакалаври навчаються за освітньою програмою "Комп'ютерні науки", магістри - за освітньо-науковою програмою "Технології штучного інтелекту."У 2018 році також проводиться набір студентів на спеціальність 122 - Комп'ютерні науки" для навчання за освітньою програмою "Аналітика даних"</font>.</font></div><div><br></div><font face="arial, sans-serif" size="1"><a href="http://kbzi.knu.ua/" target="_blank">Кафедра&nbsp;кібербезпеки та захисту інформації</a>&nbsp;створено з метою підготовки&nbsp;висококваліфікованих конкурентоспроможних на світовому ринку фахівців у галузі інформаційної безпеки та управління інформаційною безпекою, кафедра готує фахівців за спеціальністю 125 Кібербезпека і є випускною за напрямами підготовки бакалаврів:  «Кібербезпека».</font></div></div><div><font face="arial, sans-serif" size="1"><br></font></div><div><font face="arial, sans-serif" size="1"><a href="http://pst.knu.ua/" target="_blank">Кафедра програмних систем і технологій</a> заснована у 2014 році.На кафедрі працюють висококваліфіковані викладачі, які володіють фундаментальними математичними знаннями та сучасними інформаційними технологіями, мають значний педагогічний досвід, є сертифікованими фахівцями Microsoft. Кафедра програмних систем і технологій здійснює навчання студентів за напрямами: 121 “Інженерія програмного забезпечення”.</font></div><div><font face="arial, sans-serif" size="1"><br></font></div><div><font face="arial, sans-serif" size="1"><a href="http://ais.knu.ua/" target="_blank">Кафедра Прикладних Іфнормаційних систем</a>. Прикладні інформаційні системи – це перспективний напрям навчання і діяльності, адже зачіпає питання впровадження інновацій у різні види діяльності. Це трансдисциплінарна наука, що об’єднує різноманітні сектори та напрями діяльності, як-от: ІТ в агросекторі, електроенергетиці, машинобудуванні, фінансах і банківській діяльності тощо. Нині економіка трансформується у цифрову, форма організації праці – у мережеву, а підприємства стають віртуальними.</font></div><div><font face="arial, sans-serif" size="1"><br></font></div><div><font face="arial, sans-serif" size="1"><a href="http://nitd.knu.ua/" target="_blank">Кафедра Мережевих та інтернет технологій</a> В 2016 році вперше виконане набір студентів за освітнім рівнем «бакалавр» за новою освітньою програмою «Мережеві та інтернет технології» (спеціальність – 172 Телекомунікації та радіотехніка; Кафедра плідно співпрацює з іноземними фірмами, товариствами, закордонними вищими навчальними закладами. Результатом такої роботи є покращення навчального процесу та його наближення до відповідних світових стандартів освіти.</font></div><div><font face="arial, sans-serif" size="1"><br></font></div><div><font face="arial, sans-serif" size="1"><a href="http://pm.fit.knu.ua/" target="_blank">Кафедра інформаційних систем та технологій</a> заснована у 2018 році (наказ № 1145-32 від 12.12.2017). &nbsp;У складі кафедри працюють доктори та кандидати наук які є фахівцями у сфері інформаційних технологій.Ціллю створення кафедри є підготовка фахівців у новій та перспективній сфері інформаційних технологій в напрямку Інтернету речей – Іnternet of Things (IoT).</font></div>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+  <data name="ru_pano40_description"><![CDATA[<a href="http://ics-technologies.com.ua/" target="_blank">ICS Technologies</a> – успешная украинская компания-интегратор. У нас есть всё, что необходимо для успешной реализации высокотехнологичных проектов с учетом специфики бизнеса клиента. Главными направлениями нашей работы являются внедрение проектов по развитию коммуникационных инфраструктур. Также специалисты ICS предлагают услуги по IT-консалтингу и техподдержке.]]></data>
+
+
+
+  <data name="ru_pano43_description"><![CDATA[<h1 style="margin: 0px; padding: 0px; border: 0px; font-variant-ligatures: normal; font-weight: 300; font-stretch: inherit; line-height: 1.3em; font-family: Calibri, Arian, sans-serif; clear: none; color: rgb(68, 68, 68); word-wrap: break-word; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><font size="2">Тесля Юрій Миколайович</font></h1><div style="margin: 4px 0px 8px; padding: 7px 4px; border-width: 1px 0px; border-top-style: solid; border-right-style: initial; border-bottom-style: solid; border-left-style: initial; border-color: rgb(238, 238, 238); border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; font-variant-ligatures: normal; font-stretch: inherit; line-height: inherit; font-family: Calibri, Arian, sans-serif; clear: both; overflow: hidden; color: rgb(85, 85, 85); orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"></div><div style="margin: 0px; padding: 8px 0px 0px; border: 0px; font-variant-ligatures: normal; font-stretch: inherit; line-height: inherit; font-family: Calibri, Arian, sans-serif; clear: both; word-wrap: break-word; color: rgb(85, 85, 85); orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><p style="margin: 0px 0px 1em; padding: 0px; border: 0px; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.8em; font-family: inherit;"><a href="http://fit.univ.kiev.ua/wp-content/uploads/2014/10/IMG_9510-1_c.jpg" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: rgb(255, 29, 37); text-decoration: none;"><font size="2"><img src="http://fit.univ.kiev.ua/wp-content/uploads/2014/10/IMG_9510-1_c.jpg" alt="тесля юрій миколаєвич" width="300" height="400" style="margin: 4px 24px 12px 0px; padding: 0px; border: none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; height: auto; max-width: 100%; box-sizing: border-box; display: inline; float: left; opacity: 0.99; transition: all 0.3s ease-in-out;"></font></a></p><p style="margin: 0px 0px 1em; padding: 0px; border: 0px; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.8em; font-family: inherit;"><a href="http://teslia.kyiv.ua/" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; color: rgb(255, 29, 37); text-decoration: none;"><font size="2">teslia.kyiv.ua</font></a></p><p style="margin: 0px 0px 1em; padding: 0px; border: 0px; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.8em; font-family: inherit;"><font size="2">Тесля Юрій Миколайович, декан факультету інформаційних технологій, доктор технічних наук, професор, лауреат Державної премії України в галузі науки і техніки, сертифікований проектний менеджер рівня «А» Міжнародної асоціації управління проектами (IPMA).</font></p><p style="margin: 0px 0px 1em; padding: 0px; border: 0px; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.8em; font-family: inherit;"><font size="2">Працював в управлінні будівництва Південно-Української АЕС, Черкаському державному технологічному університеті, Черкаському національному університеті імені Богдана Хмельницького, Київському національному університеті будівництва і архітектури.</font></p><p style="margin: 0px 0px 1em; padding: 0px; border: 0px; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.8em; font-family: inherit;"><font size="2">У студентські роки переможець республіканської та всесоюзної олімпіад з програмування. Очолював розробку та впровадження систем управління проектами: управління будівництвом Південно-Української АЕС, Державна податкова адміністрація України, ТОВ «Карбон», ТОВ «ICD Investments», ТОВ «Бізнес-Нерухомість». Пройшов підготовку по професійному проектному менеджменту в Інституті економічного розвитку Всесвітнього Банку (США).</font></p></div>]]></data>
+
+  <data name="ru_spotpoint1698_description"><![CDATA[<h1 style="margin: 0px; padding: 0px; border: 0px; font-variant-ligatures: normal; font-weight: 300; font-stretch: inherit; font-size: 36px; line-height: 1.3em; font-family: Calibri, Arian, sans-serif; clear: none; color: rgb(68, 68, 68); word-wrap: break-word; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">Тесля Юрій Миколайович</h1><div style="margin: 4px 0px 8px; padding: 7px 4px; border-width: 1px 0px; border-top-style: solid; border-right-style: initial; border-bottom-style: solid; border-left-style: initial; border-color: rgb(238, 238, 238); border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; font-variant-ligatures: normal; font-stretch: inherit; font-size: 12px; line-height: inherit; font-family: Calibri, Arian, sans-serif; clear: both; overflow: hidden; color: rgb(85, 85, 85); orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"></div><div style="margin: 0px; padding: 8px 0px 0px; border: 0px; font-variant-ligatures: normal; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Calibri, Arian, sans-serif; clear: both; word-wrap: break-word; color: rgb(85, 85, 85); orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><p style="margin: 0px 0px 1em; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.8em; font-family: inherit;"><a href="http://fit.univ.kiev.ua/wp-content/uploads/2014/10/IMG_9510-1_c.jpg" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; color: rgb(255, 29, 37); text-decoration: none;"><img src="http://fit.univ.kiev.ua/wp-content/uploads/2014/10/IMG_9510-1_c.jpg" alt="тесля юрій миколаєвич" width="300" height="400" style="margin: 4px 24px 12px 0px; padding: 0px; border: none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; height: auto; max-width: 100%; box-sizing: border-box; display: inline; float: left; opacity: 0.99; transition: all 0.3s ease-in-out;"></a></p><p style="margin: 0px 0px 1em; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.8em; font-family: inherit;"><a href="http://teslia.kyiv.ua/" style="margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; color: rgb(255, 29, 37); text-decoration: none;">teslia.kyiv.ua</a></p><p style="margin: 0px 0px 1em; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: 1.8em; font-family: inherit;">Тесля Юрій Миколайович, декан факультету інформаційних технологій, доктор технічних наук, професор, лауреат Державної премії України в галузі науки і техніки, сертифікований проектний менеджер рівня «А» Міжнародної асоціації управління проектами (IPMA).</p></div>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>

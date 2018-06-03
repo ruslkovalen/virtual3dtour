@@ -1,0 +1,109 @@
+  <script type="text/javascript">
+var globalId="";
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+function checkCookie(cookiename) {
+    var user = getCookie(cookiename);
+    if (!user) {
+        return true;
+    } else {
+        return false;
+    }
+}
+function knowMore(parametr){
+	if(globalId ){
+		if(checkCookie(globalId+"more")){
+			$.get( "/knowMore?panoramId="+globalId)
+		}
+		var website="";
+		switch(globalId){
+			case "pano52":website="http://pm.fit.knu.ua/";
+    break;
+    case "pano50":website="http://nitd.knu.ua/";
+    break;
+    case "pano53":website= "http://ais.knu.ua/";
+    break;
+    case "pano57":website= "http://kiis.knu.ua/en/";
+    break;
+    case "pano59":website = "http://pst.knu.ua/";
+    break;
+    case "pano60": website = "http://kbzi.knu.ua/";
+    break;
+    default:break;
+		}
+var win = window.open(website, '_blank');
+if (win) {
+    //Browser has allowed it to be opened
+    win.focus();
+} else {
+    //Browser has blocked it
+    alert('Please allow popups for this website');
+}
+	
+	}
+}
+
+ var timer;
+
+ function getAdditionalPontsCathedral(panoramId,points){
+	
+ timer=undefined;
+    $.get( "/getAdditionalPontsCathedral?panoramId="+panoramId+"&points="+points+"")
+
+}
+		 function getPointsPerPanorama(panoramId,points){
+			globalId = panoramId;
+			if(timer){
+    clearTimeout(timer);
+  }
+  if(checkCookie(panoramId)){
+	$.get( "/UpdateBusinessValue?panoramId="+panoramId+"&points="+points+"")
+    .done(function( data ) {
+	 
+	  timer= setTimeout(getAdditionalPontsCathedral,20000,panoramId,10);
+    });
+  }
+  if(checkCookie(panoramid+"additional")){
+	timer= setTimeout(getAdditionalPontsCathedral,20000,panoramId,10);
+  }
+}
+		function getPointsPerPanoram(panoramId,points){
+			globalId = panoramId;
+			if(timer){
+    clearTimeout(timer);
+  }
+  if(checkCookie(panoramId)){
+	$.get( "/UpdateBusinessValue?panoramId="+panoramId+"&points="+points+"")
+    .done(function( data ) {
+	 
+	  timer= setTimeout(getAdditionalPontsCathedral,20000,panoramId,10);
+    });
+  }
+  if(checkCookie(panoramid+"additional")){
+	timer= setTimeout(getAdditionalPontsCathedral,20000,panoramId,10);
+  }
+    
+}
+
+
+function getPointsPerPanoramandDialog(panoramId,points){
+
+	//$('#krpanoSWFObject').html("<p>Hello</p>");
+    
+}
+		
+
+</script>

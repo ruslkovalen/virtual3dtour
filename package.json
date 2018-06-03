@@ -1,0 +1,43 @@
+{
+  "name": "virtualTour",
+  "version": "1.0.0",
+  "description": "This example is so cool.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npm install && npm run build"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "ruslan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "4.0.0",
+    "browser-sync": "2.23.6",
+    "chart.js": "2.7.1",
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "datatables.net-bs4": "1.10.16",
+    "express": "^4.16.3",
+    "font-awesome": "4.7.0",
+    "geoip-lite": "^1.2.1",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.9.2",
+    "gulp-header": "2.0.1",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-install": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "3.0.0",
+    "html-colors": "0.0.4",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "mongoose": "^5.1.1",
+    "request-ip": "^2.0.2"
+  }
+}
